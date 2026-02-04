@@ -87,8 +87,8 @@ Each project maps to specific skills from the [AIP-C01 exam guide](https://d1.aw
 ## Following Along
 
 - ⭐ **Star this repo** to follow progress
-- 📝 **Blog posts** at [your-blog-url]
-- 🐦 **Updates** on [LinkedIn/Twitter]
+- 📝 **Blog posts** at [chadmullen.com](https://www.chadmullen.com)
+- 💼 **Updates** on [LinkedIn](https://linkedin.com/in/chadmullen)
 
 ## About
 
