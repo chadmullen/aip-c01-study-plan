@@ -21,7 +21,7 @@ A 6-month hands-on journey to the AWS Certified Generative AI Developer – Prof
 
 | Week | Post | Repo | Status |
 |------|------|------|--------|
-| 1 | [Build to Certify: 6 Months, 24 Projects, One AWS GenAI Certification](#) | (this repo) | ✅ |
+| 1 | [Build to Certify: 6 Months, 24 Projects, One AWS GenAI Certification](https://www.chadmullen.com/posts/week-01-kickoff/) | (this repo) | ✅ |
 | 2 | Choosing the Right FM: Building a Model Comparison Dashboard | [fm-comparison-dashboard](https://github.com/chadmullen/fm-comparison-dashboard) | 🔜 |
 | 3 | Dynamic Model Routing: Never Hardcode Your FM Again | [bedrock-model-router](https://github.com/chadmullen/bedrock-model-router) | |
 | 4 | Data In, Insights Out: Building a Multimodal Data Pipeline | [genai-data-pipeline](https://github.com/chadmullen/genai-data-pipeline) | |
